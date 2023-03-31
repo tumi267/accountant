@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="317" height="62.055" viewBox="0 0 317 62.055">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff3f3;
+      }
+
+      .cls-2 {
+        fill: #001f33;
+        font-size: 14px;
+        font-family: SegoeUI-Italic, Segoe UI;
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <g id="_toggle_state_email-info_W317_x_H62_06_Hex_EDF0F2" data-name="[toggle state] email-info W317 x H62,06 Hex #EDF0F2" transform="translate(0 -2.945)">
+    <g id="ic_email_24px" transform="translate(0 2.945)">
+      <path id="ic_email_24px-2" data-name="ic_email_24px" class="cls-1" d="M71.3,4H9.7a7.69,7.69,0,0,0-7.661,7.7L2,57.9a7.723,7.723,0,0,0,7.7,7.7H71.3A7.723,7.723,0,0,0,79,57.9V11.7A7.723,7.723,0,0,0,71.3,4Zm0,15.4L40.5,38.65,9.7,19.4V11.7L40.5,30.95,71.3,11.7Z" transform="translate(-2 -4)"/>
+    </g>
+    <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-1" width="232" height="62" rx="8" transform="translate(85 3)"/>
+    <text id="info_atlanticaccountants.co.za" data-name="info@atlanticaccountants.co.za" class="cls-2" transform="translate(201 39)"><tspan x="-94.309" y="0">info@atlanticaccountants.co.za</tspan></text>
+  </g>
+</svg>

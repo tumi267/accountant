@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="30" viewBox="0 0 160 49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9d8d8;
+        font-size: 37px;
+        font-family: SegoeUI-Italic, Segoe UI;
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <text id="Contact_us_text_W170_x_H48_Hex_EDF0F2_" data-name="Contact us text W170 x H48 Hex #EDF0F2 " class="cls-1" transform="translate(85 40)"><tspan x="-84.894" y="0">Contact us</tspan></text>
+</svg>

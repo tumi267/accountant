@@ -1,0 +1,10 @@
+<svg id="_hover_state_email_icon_W77_x_H61_6_Hex_EDF0F2" data-name="[hover state] email icon W77 x H61,6 Hex #EDF0F2" xmlns="http://www.w3.org/2000/svg" width="60" height="30" viewBox="0 0 77 61.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff3f3;
+      }
+    </style>
+  </defs>
+  <path id="ic_email_24px" class="cls-1" d="M71.3,4H9.7a7.69,7.69,0,0,0-7.661,7.7L2,57.9a7.723,7.723,0,0,0,7.7,7.7H71.3A7.723,7.723,0,0,0,79,57.9V11.7A7.723,7.723,0,0,0,71.3,4Zm0,15.4L40.5,38.65,9.7,19.4V11.7L40.5,30.95,71.3,11.7Z" transform="translate(-2 -4)"/>
+</svg>

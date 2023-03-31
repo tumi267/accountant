@@ -1,0 +1,35 @@
+<svg id="_hover-state_financial-management_W506_x_H541_" data-name="[hover-state] financial-management W506 x H541 " xmlns="http://www.w3.org/2000/svg" width="506" height="541" viewBox="0 0 506 541">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #006cb2;
+      }
+
+      .cls-2 {
+        fill: #c4b690;
+      }
+
+      .cls-3 {
+        fill: #edf0f2;
+        font-size: 52px;
+        font-family: SciFly-Sans, SciFly Sans;
+        letter-spacing: -0.043em;
+      }
+    </style>
+  </defs>
+  <g id="_toggle-state_financial-management_W506_x_H1535" data-name="[toggle-state] financial-management W506 x H1535">
+    <g id="Component_1_1" data-name="Component 1 – 1">
+      <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-1" width="506" height="506" rx="42"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="506" height="14" transform="translate(0 527)"/>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(-151 -480)">
+      <g id="Group_5" data-name="Group 5" transform="translate(-435.822 325.497)">
+        <path id="Path_10" data-name="Path 10" class="cls-2" d="M912.652,421.045a17.291,17.291,0,0,0,17.323-17.313l.032-118.4a17.281,17.281,0,0,0-12.389-16.522l-.032,122.584a17.275,17.275,0,0,1-17.27,17.267H713.753a17.042,17.042,0,0,0,16.529,12.386Z" transform="translate(18.355 18.335)"/>
+        <path id="Path_11" data-name="Path 11" class="cls-2" d="M775.426,271.266a43.419,43.419,0,0,0-6.484-.53,44.487,44.487,0,1,0,6.484.53Zm-3.518,63.671v6.7H765.47V335.4a26.407,26.407,0,0,1-11.171-2.822l1.974-7.685a23.222,23.222,0,0,0,10.9,2.882c3.758,0,6.3-1.437,6.3-4.062,0-2.493-2.1-4.065-6.958-5.714-7.028-2.363-11.824-5.647-11.824-12.015,0-5.778,4.083-10.306,11.1-11.69v-6.237h6.431v5.778A23.713,23.713,0,0,1,781.751,296l-1.911,7.424a21.814,21.814,0,0,0-9.458-2.232c-4.259,0-5.637,1.836-5.637,3.68,0,2.165,2.292,3.539,7.872,5.637,7.813,2.769,10.97,6.375,10.97,12.28C783.588,328.64,779.445,333.626,771.908,334.937Z" transform="translate(46.407 23.216)"/>
+        <path id="Path_12" data-name="Path 12" class="cls-2" d="M906.229,414.605a17.268,17.268,0,0,0,17.327-17.263l.035-118.452a17.339,17.339,0,0,0-17.323-17.323H723.823a17.338,17.338,0,0,0-17.32,17.323l.032,118.4a17.292,17.292,0,0,0,17.327,17.316Zm-4.344-48.28a52.044,52.044,0,0,0-28.166,26.608H756.368A52.02,52.02,0,0,0,728.2,366.326l-.017-56.307a52.219,52.219,0,0,0,28.134-26.774H873.772a52.2,52.2,0,0,0,28.13,26.774Z" transform="translate(0 0)"/>
+        <path id="Path_13" data-name="Path 13" class="cls-2" d="M924.63,276.062,924.6,398.646a17.269,17.269,0,0,1-17.267,17.267H720.769A17.021,17.021,0,0,0,737.3,428.3H919.661a17.3,17.3,0,0,0,17.331-17.316l.032-118.4A17.28,17.28,0,0,0,924.63,276.062Z" transform="translate(36.118 36.701)"/>
+      </g>
+      <text id="Financial_Management" data-name="Financial  Management" class="cls-3" transform="translate(404 898)"><tspan x="-216.632" y="0" xml:space="preserve">Financial  Management</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg id="_default-state_ledger-management_W506_x_H541_" data-name="[default-state] ledger-management W506 x H541 " xmlns="http://www.w3.org/2000/svg" width="506" height="300" viewBox="0 0 506 541">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #006cb2;
+      }
+
+      .cls-2 {
+        fill: #c4b690;
+      }
+
+      .cls-3 {
+        fill: #edf0f2;
+        font-size: 52px;
+        font-family: SciFly-Sans, SciFly Sans;
+        letter-spacing: -0.043em;
+      }
+    </style>
+  </defs>
+  <g id="Component_1_1" data-name="Component 1 – 1">
+    <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-1" width="506" height="506"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="506" height="14" transform="translate(0 527)"/>
+  </g>
+  <g id="Group_10" data-name="Group 10" transform="translate(-1263 -480)">
+    <g id="Group_7" data-name="Group 7" transform="translate(715.93 219.705)">
+      <path id="Path_123" data-name="Path 123" class="cls-2" d="M749.451,367.3H731.675a16.488,16.488,0,0,0-16.494,16.492V553.8A16.491,16.491,0,0,0,731.675,570.3h17.776A16.49,16.49,0,0,0,765.94,553.8V383.787A16.488,16.488,0,0,0,749.451,367.3Zm8.276,188.359H723.4v-26.2h34.331Zm0-45.882H723.4V442.277h34.331Zm-17.165-85.066a17.165,17.165,0,1,1,17.165-17.165A17.164,17.164,0,0,1,740.562,424.706Z" transform="translate(0 0)"/>
+      <path id="Path_124" data-name="Path 124" class="cls-2" d="M770.123,367.3H752.347a16.49,16.49,0,0,0-16.494,16.492V553.8A16.493,16.493,0,0,0,752.347,570.3h17.775A16.491,16.491,0,0,0,786.615,553.8V383.787A16.488,16.488,0,0,0,770.123,367.3ZM778.4,555.654h-34.33v-26.2H778.4Zm0-45.882h-34.33V442.277H778.4Zm-17.165-85.066A17.165,17.165,0,1,1,778.4,407.541,17.164,17.164,0,0,1,761.237,424.706Z" transform="translate(38.835 0)"/>
+      <path id="Path_125" data-name="Path 125" class="cls-2" d="M790.8,367.3H773.02a16.49,16.49,0,0,0-16.494,16.492V553.8A16.493,16.493,0,0,0,773.02,570.3H790.8A16.492,16.492,0,0,0,807.287,553.8V383.787A16.49,16.49,0,0,0,790.8,367.3Zm8.279,188.359H764.742v-26.2h34.333Zm0-45.882H764.742V442.277h34.333ZM781.91,424.706a17.165,17.165,0,1,1,17.165-17.165A17.167,17.167,0,0,1,781.91,424.706Z" transform="translate(77.671 0)"/>
+    </g>
+    <text id="Ledger_Management" data-name="Ledger  Management" class="cls-3" transform="translate(1516 898)"><tspan x="-195.338" y="0" xml:space="preserve">Ledger  Management</tspan></text>
+  </g>
+</svg>

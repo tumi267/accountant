@@ -1,0 +1,112 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgba(7, 29, 51,1);
+    color: aliceblue;
+}
+:root{
+--scroolmenu1:inherit;
+--scroolmenu2:inherit;
+--scroolmenu3:inherit;
+--scroolmenu1width:33%;
+--scroolmenu2width:33%;
+--scroolmenu3width:33%;
+--scroolpostion1:-10%;
+--scroolpostion2:-10%;
+--scroolpostion3:-10%;
+--acccontent1:none;
+--acccontent2:none;
+--acccontent3:none;
+--hovericon:none;
+--contact-info-phone:none;
+--contact-info-mail:none;
+}
+.Header-text{
+    background-color: rgba(47,102,177,1);
+    border-radius: 15%;
+    position: absolute;
+    left: 7%;
+    top: 3%;
+    width: 88%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Header-icon{
+    display: flex;
+    margin-right: 5%;
+}
+
+.openmail{
+    display: var(--hovericon);
+    position: absolute;
+    top: 12%;
+    left: 75%;
+    row-gap: 6px;
+}
+.contact-icon{
+    display: flex;
+    gap: 2%;
+    margin-top: 3%;
+}
+.Header-text-2{
+    position: absolute;
+    text-align: center;
+    width: 55%;
+    left: 22%;
+    top: 20%; 
+}
+.Header-text-h1{
+    margin-left: 3%;
+}
+.content_contain{
+    height: 60vh;
+    width: 90%;
+    border: 10px solid rgba(47,102,177,1);
+    border-radius: 3%;
+    margin: 5%;
+}
+.scroll_contain{
+    display: flex;
+    gap: 5%;
+    width: 80%;
+    margin: -10% auto;
+}
+.scroll{
+    height: 300px;
+    background-color: rgba(47,102,177,1);
+}
+.scroll-image{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+.menu1{
+    width: var(--scroolmenu1width);
+    margin-top: var(--scroolpostion1);
+}
+.menu2{
+    width: var(--scroolmenu2width);
+    margin-top: var(--scroolpostion2);
+}
+.menu3{
+    width: var(--scroolmenu3width);
+    margin-top: var(--scroolpostion3);
+}
+.acc-content1,
+.acc-content2,
+.acc-content3{
+    background-color: rgba(47,102,177,1);
+}
+.acc-content1{
+    display: var(--acccontent1);
+}
+.acc-content2{
+    display: var(--acccontent2);
+}
+.acc-content3{
+    display: var(--acccontent3);
+}
+.conatct-mail{display: var(--contact-info-mail);}
+.conatct-phone{display: var(--contact-info-phone);}

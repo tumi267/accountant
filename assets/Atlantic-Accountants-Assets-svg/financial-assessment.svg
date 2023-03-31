@@ -1,0 +1,36 @@
+<svg id="_default-state_financial-assessment_W506_x_H541_" data-name="[default-state] financial-assessment W506 x H541 " xmlns="http://www.w3.org/2000/svg" width="506" height="300" viewBox="0 0 506 541">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #006cb2;
+      }
+
+      .cls-2 {
+        fill: #c4b690;
+      }
+
+      .cls-3 {
+        fill: #edf0f2;
+        font-size: 52px;
+        font-family: SciFly-Sans, SciFly Sans;
+        letter-spacing: -0.043em;
+      }
+    </style>
+  </defs>
+  <g id="_hover-state_financial-assessment_W506_x_H541_" data-name="[hover-state] financial-assessment W506 x H541 ">
+    <g id="Component_1_1" data-name="Component 1 – 1">
+      <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-1" width="506" height="506"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="506" height="14" transform="translate(0 527)"/>
+    </g>
+    <g id="Group_9" data-name="Group 9" transform="translate(-707 -480)">
+      <g id="Group_6" data-name="Group 6" transform="translate(494.375 219.703)">
+        <path id="Path_48" data-name="Path 48" class="cls-2" d="M400.347,378.869h-8.4a7.593,7.593,0,0,0-7.592,7.592v52.064h23.586V386.461A7.6,7.6,0,0,0,400.347,378.869Z" transform="translate(35.088 21.668)"/>
+        <path id="Path_49" data-name="Path 49" class="cls-2" d="M412.328,389.255h-8.416a7.59,7.59,0,0,0-7.589,7.589v22.242h23.6V396.844A7.592,7.592,0,0,0,412.328,389.255Z" transform="translate(57.502 41.116)"/>
+        <path id="Path_50" data-name="Path 50" class="cls-2" d="M424.3,383.215h-8.411a7.6,7.6,0,0,0-7.595,7.595V430.4h23.6V390.81A7.593,7.593,0,0,0,424.3,383.215Z" transform="translate(79.914 29.806)"/>
+        <path id="Path_51" data-name="Path 51" class="cls-2" d="M544.894,393.643A26.459,26.459,0,0,0,518.387,367.3H396.715a26.46,26.46,0,0,0-26.507,26.346v99.8H544.894ZM530.888,479.53H384.214V393.643a12.48,12.48,0,0,1,12.5-12.426H518.387a12.478,12.478,0,0,1,12.5,12.426Z" transform="translate(8.602 0)"/>
+        <path id="Path_52" data-name="Path 52" class="cls-2" d="M564.619,451.729l-11.326-36.88H378.71L366.76,451.321a23.051,23.051,0,0,0,21.9,30.23H542.584a23.052,23.052,0,0,0,22.035-29.822Zm-64.484,12.248a4.289,4.289,0,0,1-4.289,4.289h-60.44a4.291,4.291,0,0,1-4.289-4.289v-3.022a4.291,4.291,0,0,1,4.289-4.289h60.44a4.289,4.289,0,0,1,4.289,4.289Z" transform="translate(0 89.04)"/>
+      </g>
+      <text id="Financial_Assessment" data-name="Financial  Assessment" class="cls-3" transform="translate(960 898)"><tspan x="-201.214" y="0" xml:space="preserve">Financial  Assessment</tspan></text>
+    </g>
+  </g>
+</svg>

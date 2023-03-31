@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1492" height="201" viewBox="0 0 1492 201">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9d8d8;
+        font-size: 50px;
+        font-family: SegoeUI-Italic, Segoe UI;
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <text id="Welcome-Text_W1492_x_H201_Hex_EDF0F2" data-name="Welcome-Text W1492 x H201 Hex #EDF0F2" class="cls-1"><tspan x="-363.306" y="54">Welcome to Atlantic Accountants. </tspan><tspan x="-707.361" y="121">Please view our list of services to see how we can help you in your </tspan><tspan x="-93.884" y="188">finances.</tspan></text>
+</svg>

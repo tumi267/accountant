@@ -1,0 +1,47 @@
+<svg id="_toggle-state_ledger-management_W506_x_H541_" data-name="[toggle-state] ledger-management W506 x H541 " xmlns="http://www.w3.org/2000/svg" width="506" height="1535" viewBox="0 0 506 1535">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #006cb2;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #edf0f2;
+      }
+
+      .cls-2 {
+        font-size: 37px;
+        font-family: Raleway-Regular, Raleway;
+      }
+
+      .cls-3 {
+        fill: #c4b690;
+      }
+
+      .cls-4 {
+        font-size: 52px;
+        font-family: SciFly-Sans, SciFly Sans;
+        letter-spacing: -0.043em;
+      }
+    </style>
+  </defs>
+  <g id="Component_1_1" data-name="Component 1 – 1">
+    <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-1" width="506" height="506" rx="42"/>
+    <path id="Rectangle_7" data-name="Rectangle 7" class="cls-1" d="M0,0H506a0,0,0,0,1,0,0V952a56,56,0,0,1-56,56H56A56,56,0,0,1,0,952V0A0,0,0,0,1,0,0Z" transform="translate(0 527)"/>
+    <text id="Lorem_ipsum_dolor_sit_amet_tantas_veritus_eos_an_idque_nulla_onclusionemque_an._Graeci_mei_id_ulum_inermis_antiopam_eamx_Lorem_ipsum_dolor_sit_amet_tantas_veritus_eos_an_idque_nulla_conclusionemque_an._Graeci_mei_id_ullum_inermis_antiopam_eam_ex_Lo" data-name="Lorem ipsum dolor sit amet, tantas veritus eos
+an, idque nulla onclusionemque an. Graeci
+mei id, ulum inermis antiopam eamx
+
+Lorem ipsum dolor sit amet, tantas veritus eos
+an, idque nulla conclusionemque an. Graeci
+mei id, ullum inermis antiopam eam ex
+
+Lo" class="cls-2" transform="translate(21 541)"><tspan x="-185.721" y="35">Lorem ipsum dolor sit </tspan><tspan x="-202.131" y="79">amet, tantas veritus eos</tspan><tspan x="-125.189" y="123">an, idque nulla </tspan><tspan x="-232.471" y="167">onclusionemque an. Graeci</tspan><tspan x="-171.976" y="211">mei id, ulum inermis </tspan><tspan x="-132.497" y="255">antiopam eamx</tspan><tspan x="0" y="299"></tspan><tspan x="-185.721" y="343">Lorem ipsum dolor sit </tspan><tspan x="-202.131" y="387">amet, tantas veritus eos</tspan><tspan x="-125.189" y="431">an, idque nulla </tspan><tspan x="-183.076" y="475">conclusionemque an. </tspan><tspan x="-54.742" y="519">Graeci</tspan><tspan x="-177.008" y="563">mei id, ullum inermis </tspan><tspan x="-147.723" y="607">antiopam eam ex</tspan><tspan x="0" y="651"></tspan><tspan x="-185.721" y="695">Lorem ipsum dolor sit </tspan><tspan x="-202.131" y="739">amet, tantas veritus eos</tspan><tspan x="-125.189" y="783">an, idque nulla </tspan><tspan x="-183.076" y="827">conclusionemque an. </tspan><tspan x="-54.742" y="871">Graeci</tspan><tspan x="-177.008" y="915">mei id, ullum inermis </tspan><tspan x="-147.723" y="959">antiopam eam ex</tspan></text>
+  </g>
+  <g id="Group_7" data-name="Group 7" transform="translate(-547.07 -260.295)">
+    <path id="Path_123" data-name="Path 123" class="cls-3" d="M749.451,367.3H731.675a16.488,16.488,0,0,0-16.494,16.492V553.8A16.491,16.491,0,0,0,731.675,570.3h17.776A16.49,16.49,0,0,0,765.94,553.8V383.787A16.488,16.488,0,0,0,749.451,367.3Zm8.276,188.359H723.4v-26.2h34.331Zm0-45.882H723.4V442.277h34.331Zm-17.165-85.066a17.165,17.165,0,1,1,17.165-17.165A17.164,17.164,0,0,1,740.562,424.706Z" transform="translate(0 0)"/>
+    <path id="Path_124" data-name="Path 124" class="cls-3" d="M770.123,367.3H752.347a16.49,16.49,0,0,0-16.494,16.492V553.8A16.493,16.493,0,0,0,752.347,570.3h17.775A16.491,16.491,0,0,0,786.615,553.8V383.787A16.488,16.488,0,0,0,770.123,367.3ZM778.4,555.654h-34.33v-26.2H778.4Zm0-45.882h-34.33V442.277H778.4Zm-17.165-85.066A17.165,17.165,0,1,1,778.4,407.541,17.164,17.164,0,0,1,761.237,424.706Z" transform="translate(38.835 0)"/>
+    <path id="Path_125" data-name="Path 125" class="cls-3" d="M790.8,367.3H773.02a16.49,16.49,0,0,0-16.494,16.492V553.8A16.493,16.493,0,0,0,773.02,570.3H790.8A16.492,16.492,0,0,0,807.287,553.8V383.787A16.49,16.49,0,0,0,790.8,367.3Zm8.279,188.359H764.742v-26.2h34.333Zm0-45.882H764.742V442.277h34.333ZM781.91,424.706a17.165,17.165,0,1,1,17.165-17.165A17.167,17.167,0,0,1,781.91,424.706Z" transform="translate(77.671 0)"/>
+  </g>
+  <text id="Ledger_Management" data-name="Ledger  Management" class="cls-4" transform="translate(253 418)"><tspan x="-195.338" y="0" xml:space="preserve">Ledger  Management</tspan></text>
+</svg>
