@@ -101,21 +101,27 @@ Array.from(scroll).forEach((e,i)=> {
         }
     })
 })
-icon.addEventListener('mouseover',()=>{
-    r.style.setProperty('--hovericon','block')
-})
 icon.addEventListener('click',()=>{
-    r.style.setProperty('--hovericon','none') 
+    if(rs.getPropertyValue('--hovericon')=='none'){
+        r.style.setProperty('--hovericon','block')
+    }else{
+        r.style.setProperty('--hovericon','none')
+    }   
 })
-mail.addEventListener('mouseover',()=>{
-    r.style.setProperty('--contact-info-mail','block')
+
+mail.addEventListener('click',()=>{
+    if(rs.getPropertyValue('--contact-info-mail')=='none'){
+        r.style.setProperty('--contact-info-mail','block')
+    }else{
+        r.style.setProperty('--contact-info-mail','none')
+    }   
 })
-mail.addEventListener('mouseout',()=>{
-    r.style.setProperty('--contact-info-mail','none')
-})
-phone.addEventListener('mouseover',()=>{
-    r.style.setProperty('--contact-info-phone','block')
-})
-phone.addEventListener('mouseout',()=>{
-    r.style.setProperty('--contact-info-phone','none')
+
+phone.addEventListener('click',()=>{
+    if(rs.getPropertyValue('--contact-info-phone')=='none'){
+        r.style.setProperty('--contact-info-phone','block')
+    }else{
+        r.style.setProperty('--contact-info-phone','none')
+    }   
+    
 })
