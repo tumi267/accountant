@@ -20,6 +20,7 @@ body{
 --hovericon:none;
 --contact-info-phone:none;
 --contact-info-mail:none;
+--containicon:0%;
 }
 .Header-text{
     background-color: rgba(47,102,177,1);
@@ -28,6 +29,7 @@ body{
     left: 7%;
     top: 3%;
     width: 88%;
+    height: 79.88px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -36,18 +38,12 @@ body{
     display: flex;
     margin-right: 5%;
 }
-
 .openmail{
     display: var(--hovericon);
-    position: absolute;
-    top: 12%;
-    left: 75%;
-    row-gap: 6px;
 }
 .contact-icon{
     display: flex;
-    gap: 2%;
-    margin-top: 3%;
+    margin-top: 7%;
 }
 .Header-text-2{
     position: absolute;
@@ -108,5 +104,15 @@ body{
 .acc-content3{
     display: var(--acccontent3);
 }
-.conatct-mail{display: var(--contact-info-mail);}
-.conatct-phone{display: var(--contact-info-phone);}
+.mail-icon-contain{
+    margin-top: var(--containicon);
+    position: relative;
+    z-index: 2;
+    
+}
+.conatct-mail{display: var(--contact-info-mail);
+margin-left: 5%;
+}
+.conatct-phone{display: var(--contact-info-phone);
+    margin-left: 5%;
+}

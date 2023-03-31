@@ -5,33 +5,46 @@ const mail=document.querySelector('.conatct-mail-icon')
 const phone=document.querySelector('.conatct-phone-hover')
 var rs = getComputedStyle(r);
 Array.from(scroll).forEach((e,i)=> {
- 
     e.addEventListener('click',(j)=>{
      
         switch (e.id) {
             case '1':
-                if(rs.getPropertyValue('--scroolmenu1width')=='33%'){
+               
+                if(parseInt(rs.getPropertyValue('--scroolmenu1width'))<=33){
                 r.style.setProperty('--scroolmenu1width','84%')
                 r.style.setProperty('--acccontent1','block')
+                r.style.setProperty('--acccontent2','none')
+                r.style.setProperty('--acccontent3','none')
                 r.style.setProperty('--scroolmenu2width','4%')
                 r.style.setProperty('--scroolmenu3width','4%')
             }else{
                 r.style.setProperty('--scroolmenu1width','33%')
                 r.style.setProperty('--acccontent1','none')
+                if(rs.getPropertyValue('--scroolmenu2width')=='84%'){
+                    r.style.setProperty('--acccontent2','none')
+                }
+                if(rs.getPropertyValue('--scroolmenu3width')=='84%'){
+                    r.style.setProperty('--acccontent3','none')
+                }
+               
                 r.style.setProperty('--scroolpostion1','-10%')
                 r.style.setProperty('--scroolmenu2width','33%')
                 r.style.setProperty('--scroolmenu3width','33%')
             }
                 break;
             case '2':
-                if(rs.getPropertyValue('--scroolmenu2width')=='33%'){
+                if(parseInt(rs.getPropertyValue('--scroolmenu2width'))<=33){
                 r.style.setProperty('--scroolmenu1width','4%')
                 r.style.setProperty('--scroolmenu2width','84%')
                 r.style.setProperty('--acccontent2','block')
+                r.style.setProperty('--acccontent1','none')
+                r.style.setProperty('--acccontent3','none')
                 r.style.setProperty('--scroolmenu3width','4%')
             }else{
                 r.style.setProperty('--scroolmenu1width','33%')
                 r.style.setProperty('--acccontent2','none')
+                r.style.setProperty('--acccontent1','none')
+                r.style.setProperty('--acccontent3','none')
                 r.style.setProperty('--scroolpostion2','-10%')
                 r.style.setProperty('--scroolmenu2width','33%')
                 r.style.setProperty('--scroolmenu3width','33%')
@@ -39,17 +52,21 @@ Array.from(scroll).forEach((e,i)=> {
 
             break;
             case '3':
-                if(rs.getPropertyValue('--scroolmenu3width')=='33%'){
+                if(parseInt(rs.getPropertyValue('--scroolmenu3width'))<=33){
                 r.style.setProperty('--scroolmenu1width','4%')
                 r.style.setProperty('--scroolmenu2width','4%')
                 r.style.setProperty('--scroolmenu3width','84%')
                 r.style.setProperty('--acccontent3','block')
+                r.style.setProperty('--acccontent1','none')
+                r.style.setProperty('--acccontent2','none')
             }else{
                 r.style.setProperty('--scroolmenu1width','33%')
                 r.style.setProperty('--scroolmenu2width','33%')
                 r.style.setProperty('--scroolmenu3width','33%')
                 r.style.setProperty('--scroolpostion3','-10%')
                 r.style.setProperty('--acccontent3','none')
+                r.style.setProperty('--acccontent1','none')
+                r.style.setProperty('--acccontent2','none')
             }
             break;
             default:
@@ -104,14 +121,17 @@ Array.from(scroll).forEach((e,i)=> {
 icon.addEventListener('click',()=>{
     if(rs.getPropertyValue('--hovericon')=='none'){
         r.style.setProperty('--hovericon','block')
+        r.style.setProperty('--containicon','50%')
     }else{
         r.style.setProperty('--hovericon','none')
+        r.style.setProperty('--containicon','0%')
     }   
 })
 
 mail.addEventListener('click',()=>{
     if(rs.getPropertyValue('--contact-info-mail')=='none'){
         r.style.setProperty('--contact-info-mail','block')
+        r.style.setProperty('--containiconleft','0%')
     }else{
         r.style.setProperty('--contact-info-mail','none')
     }   
